@@ -1,7 +1,8 @@
 
 ## Intro
 * goal: Produce poetic or critical outcomes by compiling, condensing, filtering and adding structure to information found online
-* show some projects
+* me!
+* you!
 
 
 ## Intro to command line

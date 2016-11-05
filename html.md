@@ -14,7 +14,7 @@ Here's what a basic html document might look like:
 ```html
 <html>
 	<head>
-		<title>A Spectre is Hauning Europe</title>
+		<title>A Spectre is Haunting Europe</title>
 	</head>
 	
 	<body>
@@ -42,69 +42,54 @@ Some important tags:
 
 Tags can have attributes associated with them. Some attributes can only apply to certain elements (like img src), other can be applied to any element, like ```id``` and ```class```
 
-id
 
-class
+```id``` ids must be unique - ie only one element on a page can have a particular id
 
+```class``` a category or "class" of element. Multiple elements can have the same class.
 
+For example:
 
+```html
+<h1 id="logo">The logo for the site goes here">LOGO</h1>
+
+<p class="big-paragaph">The first big paragraph</p>
+<p class="big-paragaph">The second big paragraph</p>
+```
 
 ### CSS
 
 CSS stands for "cascading style sheet". It gives as a way to format or "style" HTML.
 
+We can add style to HTML elements by referencing their tag names, ids, or classnames.
+
+To style an element, just use it's tag name. To style an element with a particular id, use it's id name preceeded with the ```#``` character. To style a series of elements that share a class, reference the class name, preceeded with a ```.```
+
+```css
+
+/* make paragraphs have bold text */
+p {
+	font-weight: bold;
+}
+
+/* make the element that has the id "logo" have a thick red border around it
+#logo {
+	border: 10px solid red;
+}
+
+/* make all elements with the "big" class have giant text */
+.big {
+	font-size: 100px;
+}
+
+```
+
+We can also style elements inside of other elements.
+
+It's not important to know what all the possible CSS styles are, just how to reference elements using CSS - we'll be using this when we start web scraping.
+
 
 ### The Web Inspector
 
-How to use the chrome web inspector
+How to use the chrome web inspector...
 
-## Terminal
-
-..basic terminal stuff
-
-## Python
-
-* variables
-* strings
-* string concats
-* lists
-* looping through lists
-
-
-## Webscraping
-
-
-### Beautiful Soup
-
-something about beautiful soup
-
-### Examples
-
-* Craigslist
-* Alibaba
-* Wikihow
-* Something with images
-* Something with video
-* Yahoo answers
-* News site?
-
-### Selenium
-
-...examples
-
-## Readings
-
-## Assignment
-
-one technical 
-one conceptual
-
-
-## Limitations
-
-html only - javascript won't work.
-
-### Workaround 
-
-Selenium
 
