@@ -1,3 +1,9 @@
+##
+Notes:
+
+* [basic command line stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/commandline.md)
+* [basic python stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/python.md)
+* [basic html stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/html.md)
 
 ## Intro
 * goal: Produce poetic or critical outcomes by compiling, condensing, filtering and adding structure to information found online
