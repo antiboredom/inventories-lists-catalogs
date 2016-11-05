@@ -27,13 +27,16 @@ Some tags wrap around other content (either text or other tags), and some tags e
 
 Some important tags:
 
-```<html><html>```
+```html
 
-```<p>I'm a paragraph</p>```
+<html></html>
 
-```<img src="trotsky.jpg">```
+<p>I'm a paragraph</p>
 
-```<a href="http://pravda.ru">Click here!</a>```
+<img src="trotsky.jpg">
+
+<a href="http://pravda.ru">Click here!</a>
+```
 
 ![](https://camo.githubusercontent.com/75a02359b7d1e48f52f2012c91bdee4e9cb60a94/68747470733a2f2f6d646e2e6d6f7a696c6c6164656d6f732e6f72672f66696c65732f373635392f616e61746f6d792d6f662d616e2d68746d6c2d656c656d656e742e706e67)
 
@@ -71,7 +74,7 @@ p {
 	font-weight: bold;
 }
 
-/* make the element that has the id "logo" have a thick red border around it
+/* make the element that has the id "logo" have a thick red border around it*/
 #logo {
 	border: 10px solid red;
 }
@@ -90,6 +93,5 @@ It's not important to know what all the possible CSS styles are, just how to ref
 
 ### The Web Inspector
 
-How to use the chrome web inspector...
-
+In Chrome, right click on any element on the page and select ```inspect```.
 
