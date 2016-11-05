@@ -1,5 +1,4 @@
-##
-Notes:
+## Notes
 
 * [basic command line stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/commandline.md)
 * [basic python stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/python.md)
