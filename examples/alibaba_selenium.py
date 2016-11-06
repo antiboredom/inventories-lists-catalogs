@@ -5,8 +5,7 @@ from selenium.webdriver.firefox.webdriver import FirefoxProfile
 
 start_url = 'https://www.alibaba.com/catalogs/products/CID100009383----------------------------L--------------------------Pharmaceuticals'
 
-binary = FirefoxBinary('/Applications/Firefox39.app/Contents/MacOS/firefox')
-driver = webdriver.Firefox(firefox_binary=binary)
+driver = webdriver.Firefox()
 
 
 def get_items(url):

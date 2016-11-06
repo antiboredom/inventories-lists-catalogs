@@ -13,6 +13,9 @@
 * making folders
 * looking in files
 * searching in files
+* input and output
+* piping
+* make our first list!
 
 ## Intro to python
 * the interactive interpreter

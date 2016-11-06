@@ -61,3 +61,8 @@ Search for a something in a text file
 grep SEARCHTERM FILENAME
 ```
 
+Direct output with ```>```
+
+```
+grep "whale" mobydick.txt > whales.txt
+```
