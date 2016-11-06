@@ -1,8 +1,13 @@
-## Notes
+# Resources
 
 * [basic command line stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/commandline.md)
 * [basic python stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/python.md)
 * [basic html stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/html.md)
+
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) ([download](http://www.crummy.com/software/BeautifulSoup/bs4/download/4.3/beautifulsoup4-4.3.2.tar.gz))
+* [Requests library](http://docs.python-requests.org/en/master/) ([download](https://github.com/kennethreitz/requests/archive/master.zip))
+
+# Workshop outline
 
 ## Intro
 * goal: Produce poetic or critical outcomes by compiling, condensing, filtering and adding structure to information found online
