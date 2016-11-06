@@ -1,5 +1,13 @@
 # Resources
 
+## Books & Tutorials
+
+* [Learn Python The Hard Way by Zed Shaw](https://learnpythonthehardway.org/book/) (not actually hard)
+* [Really nice web scraping tutorial](https://first-web-scraper.readthedocs.io/en/latest/)
+* [Web Scraping from "Automate the Boring Stuff"](https://automatetheboringstuff.com/chapter11/)
+* [Intro to Unix by Allison Parrish](http://www.decontextualize.com/teaching/rwet/introduction-and-unix-tutorial/)
+
+
 ## My notes
 
 * [basic command line stuff](https://github.com/antiboredom/inventories-lists-catalogs/blob/master/commandline.md)
